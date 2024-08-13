@@ -1,5 +1,5 @@
 Wireframe Shader for Unity
-![Wireframe Shader Preview](Assets/Wire Frame.gif)
+![Wireframe Shader Preview](Assets/Wire_Frame.gif)
 
 Overview
 The Wireframe Shader is a powerful and versatile shader for Unity, designed to render objects with a dynamic wireframe overlay. It's perfect for developers who need to debug models, visualize geometry, or create stylized visual effects. The shader is highly customizable, supporting HDR colors and is compatible with the Universal Render Pipeline (URP).
