@@ -1,8 +1,8 @@
-🎮 Wireframe Shader for Unity (URP)
-
 <div align="center">
+  <h1>🎮 Wireframe Shader for Unity (URP)</h1>
   <img src="Assets/Wire_Frame.gif" alt="Wireframe Shader Preview" />
 </div>
+
 A highly customizable and performance-friendly wireframe shader built for Unity's Universal Render Pipeline (URP). Whether you're aiming for a stylized visual effect, geometry visualization, or debugging 3D models, this shader gives you full control over how wireframes appear in your project.
 
 ✨ Features
